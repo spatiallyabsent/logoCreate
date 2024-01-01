@@ -1,0 +1,16 @@
+{
+    "name": "logoCreate",
+    "version": "1.0.0",
+    "description": "a simple logo maker using node",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "devDependencies": {
+        "jest": "^27.5.1"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.12"
+    }
+}
